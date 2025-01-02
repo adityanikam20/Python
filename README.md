@@ -56,7 +56,7 @@ global  or       del    if
 pass    elif     Import raise
 
 **Comments in Python**
-# Single Line Comment 
+#Single Line Comment 
 """ Multi Line Comment """
 
 **Types of Operators**
