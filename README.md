@@ -1,5 +1,4 @@
 # Python
-From Scratch
 
 **What is Python?**
 
