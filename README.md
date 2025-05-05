@@ -40,7 +40,7 @@ None
 print(type(age))                      <class 'int'>
 print(type(pi))                       <class 'float'>
 print(type(complex_num))              <class 'complex'>
-print(type (A))                       <class 'bool'>se
+print(type (A))                       <class 'bool'>se 
 print(type(name))                     <class 'str'>
 
 **Keywords**
